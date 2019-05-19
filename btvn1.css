@@ -1,0 +1,53 @@
+.container {
+	border: 1px solid white;
+	margin: 0 auto;
+	width: 768px;
+}
+.a1 {
+	border: 1px solid orange;
+	height: 200px;
+	width: 714px;
+	margin-bottom: 3px;
+	margin-right: 3px;
+	background: orange;
+	float: left;
+}
+.a2 {
+	border: 1px solid orange;
+	width: 253px;
+	background: orange;
+	margin-right: 3px;
+	height: 253px;
+	float: left;
+	margin-bottom: 3px;
+}
+.a3, .a6, .a7, .a8, .a9 {
+	border: 1px solid orange;
+	width: 149px;
+	height: 60px;
+	margin-right: 3px;
+	margin-bottom: 3px;
+	background: orange;
+	float: left;
+}
+.a4, .a5 {
+	border: 1px solid orange;
+	width: 303px;
+	height: 60px;
+	margin-right: 3px;
+	margin-bottom: 3px;
+	float: left;
+	background: orange;
+}
+.a10 {
+	border: 1px solid orange;
+	width: 457px;
+	height: 60px;
+	margin-bottom: 3px;
+	margin-right: 3px;
+	float: left;
+	background: orange;
+}
+p {
+	color: white;
+}
